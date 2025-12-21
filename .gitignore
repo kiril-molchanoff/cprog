@@ -1,0 +1,12 @@
+# ignore built results
+*.o
+*.out
+
+# ignore logs & tmp
+*.tmp
+*.log
+
+# globally ignored dirs
+**/logs
+**/bin
+**/tmp
