@@ -1,12 +1,18 @@
 # ignore built results
 *.o
-*.out
+*.exe
 
 # ignore logs & tmp
 *.tmp
 *.log
 
+# ignore in/out files
+*.in
+*.out
+
 # globally ignored dirs
-**/logs
 **/bin
+**/logs
 **/tmp
+**/in
+**/out
